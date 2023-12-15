@@ -1,0 +1,14 @@
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\bin\Debug\net8.0\Task22.exe
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\bin\Debug\net8.0\Task22.deps.json
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\bin\Debug\net8.0\Task22.runtimeconfig.json
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\bin\Debug\net8.0\Task22.dll
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\bin\Debug\net8.0\Task22.pdb
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.AssemblyInfoInputs.cache
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.AssemblyInfo.cs
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.csproj.CoreCompileInputs.cache
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.dll
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\refint\Task22.dll
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.pdb
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\Task22.genruntimeconfig.cache
+C:\Users\РомаиЛиля\Desktop\C#Task22\Task22\obj\Debug\net8.0\ref\Task22.dll
