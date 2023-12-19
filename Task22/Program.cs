@@ -52,7 +52,7 @@ void FindSummForPositiveColumns(int[,] arr) { // поиск столбцов б�
         }
         if (i == arr.GetLength(0) - 1) 
         {
-            Console.WriteLine($"Строка {count + 1} сумма = {summ}");
+            Console.WriteLine($"Столбец {count + 1} сумма = {summ}");
             summ = 0;
             i = -1;
             count++;
